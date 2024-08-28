@@ -1,7 +1,3 @@
-Here's a 100-word summary for your GitHub project descriptions:
-
----
-
 Discover a variety of front-end projects demonstrating creativity and technical skill:
 
 - **🦋 Butterfly:** Lifelike butterfly animation using CSS and JavaScript.
